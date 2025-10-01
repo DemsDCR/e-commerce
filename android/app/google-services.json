@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "571641470512",
+    "firebase_url": "https://appfluter-19d13-default-rtdb.firebaseio.com",
+    "project_id": "appfluter-19d13",
+    "storage_bucket": "appfluter-19d13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571641470512:android:9ead582ffb8677f93957f5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlONulnxZ-kgl-mABbeM1c1zUR7V83pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571641470512:android:6d0f1758e5eac3413957f5",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlONulnxZ-kgl-mABbeM1c1zUR7V83pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571641470512:android:e8c3c769318b8ab73957f5",
+        "android_client_info": {
+          "package_name": "com.rdv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlONulnxZ-kgl-mABbeM1c1zUR7V83pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571641470512:android:1518e8fb10ffcf5c3957f5",
+        "android_client_info": {
+          "package_name": "rdv.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxlONulnxZ-kgl-mABbeM1c1zUR7V83pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
